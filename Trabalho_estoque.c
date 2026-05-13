@@ -7,7 +7,7 @@
 // Funcionalidade extra: Remover produto.
 
 #include <stdio.h>
-#include <windows.h> // ****** AJUSTAR O DELAY PARA FUNÇÃO SLEEP() DO WINDOWS, MELHORANDO A PERFORMANCE E SIMULAÇÃO DE CARREGAMENTO. ******
+#include <windows.h> // ****** AJUSTAR O DELAY PARA FUNÇÃO SLEEP() DO WINDOWS, MELHORANDO A PERFORMANCE E SIMULAÇÃO DE CARREGAMENTO.  em breve implementarei a refatoração ao algoritmo ******
 #include <string.h> // Utilizada para manipulação de texto com strcpy. 
 #include <time.h>  // Utilizada para criar delay no sistema usando.
 #define MAX 10 // Implementação de memória dinâmica aumentaria a complexidade e probabilidade de bugs.
