@@ -1,4 +1,4 @@
-// Nome(s): Felipe Brisola, 
+// Nome(s): Felipe Brisola 
 // Turma: Análise e Desenvolvimento de Sistemas 1º período Noturno
 // Tema: Estoque Simples
 // Descrição: Objetivo do sistema é permitir o gerenciamento básico de produtos,
